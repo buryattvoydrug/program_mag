@@ -1,0 +1,1 @@
+#define HYPOTENUSE(X, Y) sqrtf(X*X + Y*Y)
